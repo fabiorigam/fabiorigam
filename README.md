@@ -10,7 +10,7 @@ I'm Fabio Rigamonti, a Senior Software Engineer passionate about building scalab
  - Blockchain: Smart Contract Development, Decentralized Application (DApp) Development, Ethereum
 
 ## Work Experience
- - **Senior Software Engineer** at @vechain
+ - **Senior Software Engineer** at [vechain](http://vechain.org/)
  - **Blockchain Developer** at Accenture
  - **Cloud Migration & Implementation Analyst** at Accenture
 
